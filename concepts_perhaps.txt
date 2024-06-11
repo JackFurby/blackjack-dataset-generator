@@ -1,0 +1,26 @@
+surrender_16_against_dealer_10-Ace
+soft_totol_(Ace,Ace)
+soft_totol_(Ace,6-9)
+soft_totol_(Ace,2-5)_against_dealer_2-6
+soft_totol_(Ace,2-5)_against_dealer_7-Ace
+hard_total_17+
+hard_total_13-16_against_dealer_2-6
+hard_total_13-16_against_dealer_7-Ace
+hard_total_12_against_dealer_2-3
+hard_total_12_against_dealer_4-6
+hard_total_12_against_dealer_7-Ace
+hard_total_4-11
+
+total_16 0
+dealer_10-Ace 1
+soft_total_(Ace,Ace) 2
+soft_total_(Ace,6-9) 3
+soft_total_(Ace,2-5) 4
+dealer_2-6 5
+dealer_7-Ace 6
+hard_total_17+ 7
+hard_total_13-16 8
+hard_total_12 9
+dealer_2-3 10
+dealer_4-6 11
+hard_total_4-11 12
